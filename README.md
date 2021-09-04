@@ -1,3 +1,3 @@
 # Console
 
-Its a demonstration project, next i am create an api
+Its a demonstration project, next i create an api
